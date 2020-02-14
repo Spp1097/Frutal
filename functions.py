@@ -4,6 +4,8 @@ Created on Thu Jan 23 17:51:06 2020
 
 @author: santi
 """
+#Primera linea de comentarios para git
+
 
 import pandas as pd
 
